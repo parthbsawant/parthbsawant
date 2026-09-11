@@ -1,40 +1,47 @@
-<h1 align="center"> Hellololololo, I'm Parth Sawant</h1>
-<h3 align="center">Full-Stack Developer, building things that turn data into decisions</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parthbsawant" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:parthbsawant@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/parthbsawant" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+# ⚡ Hello, I'm Parth Sawant
 
----
+### Full-Stack Developer, building things that turn data into decisions
 
-### 🚀 About Me
+<br>
 
--  Currently working as a **Solution Analyst Intern**
--  Focusing on **core web development** and building a deeper understanding of how systems actually work under the hood
--  Reach me at **parthbsawant@gmail.com**
+<a href="https://www.linkedin.com/in/parthbsawant">
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+<a href="mailto:parthbsawant@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/parthbsawant">
+  <img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### Tech Stack
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,python,firebase,tailwind,nodejs,html,css,git,github,mongodb,vscode" />
-</p>
+- Currently working as a **Solution Analyst Intern**
+- Focusing on **core web development** and building a deeper understanding of how systems actually work under the hood
+- Reach me at **parthbsawant@gmail.com**
 
 ---
 
-### Featured Projects
+## ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,python,firebase,tailwind,nodejs,html,css,git,github,mongodb,vscode" />
+
+</div>
+
+---
+
+## 💻 Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
+|:---:|:---|:---:|
 | **[FinSight AI](https://github.com/parthbsawant/finsight-ai)** | Financial intelligence engine integrating NLP, ML, and deep learning to synthesize market data, news, and sentiment into actionable insights | Python |
 | **[Harvestiq](https://github.com/parthbsawant/harvestiq)** | Agricultural crop yield prediction system using Hadoop and MongoDB, aligned with SDG 2: Zero Hunger | JavaScript |
 | **[Train Ticketing System](https://github.com/parthbsawant/train-ticketing-system)** | Modern Indian train ticketing system with real-time booking flows | React, Firebase, Tailwind |
@@ -43,17 +50,26 @@
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthbsawant&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbsawant&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=parthbsawant&theme=radical&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=parthbsawant&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbsawant&layout=compact&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=parthbsawant&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos or reach out!</i></p>
+<div align="center">
+
+### ⚡ Building • Learning • Experimenting
+
+<i>Thanks for stopping by — feel free to explore my repos or reach out!</i>
+
+</div>
